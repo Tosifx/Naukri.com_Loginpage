@@ -1,0 +1,148 @@
+.one {
+	height: 80px;
+	width: 100%;
+	float: left;
+}
+
+.one img{
+	height: 70px;
+	width: 10%;
+	float: left;
+	margin-left: 100px;
+}
+.one ul{
+	margin-left: 100px;
+	float: left;
+}
+
+.one li{
+	list-style-type: none;
+	display: inline-block;
+	color: black;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+	float: left;
+}
+.one input{
+	height: 40px;
+	width: 250px;
+	border-radius: 50px;
+	border: 1px solid gray;
+	margin-top: 18px;
+	margin-left: 100px;
+	float: left;
+
+}
+
+.one button{
+	height: 40px;
+	width: 100px;
+	float: left;
+	border-radius: 30px;
+	font-size: 15px;
+	margin-top: 20px;
+}
+
+.one select{
+	margin-top: 30px;
+	margin-left: 50px;
+	font-size: 20px;
+	border: none;
+}
+
+.two{
+	height: 668px;
+	width: 100%;
+	background-color: whitesmoke;
+	float: left;
+}
+
+.two .three{
+	float: left;
+	height: 500px;
+	width: 500px;
+	background-color: white;
+	position: absolute;
+	top: 170px;
+	left: 250px;
+
+}
+.two .three h1{
+	font-size: 30px;
+	margin-left:50px ;
+	margin-top: 50px;
+	float: left;
+}
+
+.two .three h2{
+	font-size: 17px;
+	margin-left: 50px;
+	margin-top: 10px;
+	float: left;
+	color: gray;
+}
+.two .three img{
+	float: left;
+	height: 150px;
+	width: 200px;
+	margin-top: 40px;
+	margin-left: 300px;
+}
+.two .three button{
+	height: 30px;
+	width: 200px;
+	border-color: blue;
+	color: blue;
+	float: left;
+	margin-left: 50px;
+	background-color: white;
+}
+
+.two .four{
+	float: left;
+	height: 600px;
+	width: 500px;
+	background-color: white;
+	position: absolute;
+	top: 130px;
+	left: 750px;
+}
+
+.two .four h1{
+	margin-left: 70px;
+	margin-top: 70px;
+}
+.two .four form {
+	margin-left: 70px;
+}
+.two .four form legend{
+	font-size: 17px;
+	margin-top: 20px;
+}
+.two .four form input{
+	height: 40px;
+	width: 350px;
+	border: 1px gray solid;
+	margin-top: 5px;
+	color: gray;
+}
+
+.two .four form a{
+	text-decoration: none;
+	margin-left: 246px;
+}
+.two .four form button{
+	height: 40px;
+	width: 350px;
+	border: none;
+	margin-top: 10px;
+	color: white;
+	background-color: blue;
+	font-size: 17px;
+}
+ h2{
+	color: blue;
+	text-align: center;
+	margin-left: 00px;
+}
